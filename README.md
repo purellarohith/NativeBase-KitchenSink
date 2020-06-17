@@ -19,7 +19,7 @@ iOS | Android
 
 *	**Clone and install packages**
 ```
-git clone git@github.com:GeekyAnts/NativeBase-KitchenSink.git
+git clone "https://github.com/GeekyAnts/NativeBase-KitchenSink.git"
 cd NativeBase-KitchenSink
 yarn
 react-native link react-native-vector-icons
